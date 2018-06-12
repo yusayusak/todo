@@ -1,0 +1,8 @@
+{
+  "name": "to-do-planner",
+  "app_id": "de266fbe",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
